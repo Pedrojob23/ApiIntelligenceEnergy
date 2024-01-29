@@ -1,0 +1,6 @@
+@ApiIntelligenceEnergy_HostAddress = http://localhost:5111
+
+GET {{ApiIntelligenceEnergy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
