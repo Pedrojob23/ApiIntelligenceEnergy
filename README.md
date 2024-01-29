@@ -1,4 +1,4 @@
-# API REST 
+# API REST 🌐
 ### API SIMPLES DE CADASTRO DE CLIENTES.
 
 #### Características do sistema:
@@ -6,6 +6,14 @@
 - Designer pattern: MVC
 - JDBC: PostGreSQL
 - Operações: CRUD Basic
+
+
+#### ⚠️ Não foram implementadas validações para todos os dados. Essa API serve como um exemplo simples de cadastro de clientes.
+
+
+
+
+
 
 
 

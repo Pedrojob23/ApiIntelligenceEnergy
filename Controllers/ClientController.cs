@@ -79,6 +79,7 @@ public class ClientController : ControllerBase
         existingClient.Bairro = clientModel.Bairro;
         existingClient.Rua = clientModel.Rua;
         existingClient.NEndereco = clientModel.NEndereco;
+        existingClient.Cep = clientModel.Cep;
 
         try
         {
